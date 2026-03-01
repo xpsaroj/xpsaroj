@@ -2,7 +2,7 @@
 ```
 - Computer Engineering Student
 - Passionate Full-Stack Developer
-- Intrerested in backend development, databases, and systems & low-level programming
+- Interested in backend development, databases, and systems & low-level programming
 - Currently learning Rust
 - Reach me at: saroj.p.2728@gmail.com
 ```
