@@ -14,11 +14,7 @@
 <!-- [![Tech Stack](https://skills.syvixor.com/api/icons?perline=12&i=javascript,typescript,c,cpp,rust,python,reactjs,nextjs,tailwindcss,redux,nodejs,expressjs,graphql,nestjs,socketio,mongodb,postgresql,prisma,drizzle,firebase,git,github,docker,linux)](https://github.com/xpsaroj) -->
 
 ## Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/xpsaroj/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/xpsaroj)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/xpsaroj/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/1073637787934412882/)
-[![Portfolio](https://skillicons.dev/icons?i=solidity)](https://saroj27.com.np)
+[![Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,solidity&perline=5&theme=dark)](https://socials.sarojpanday.com.np)
 
 ## Github Stats
   <p>
